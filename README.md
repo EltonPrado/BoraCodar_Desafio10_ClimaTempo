@@ -12,11 +12,9 @@ O desafio foi a criação do layout de uma página do tempo. A página é respon
   <img alt="projeto clima tempo" src=".github/preview.jpg" width="100%">
 </p>
 
-<br>
-
 Quer conferir como ficou a página? 
 
-[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio08_Dashboard/)
+[Visite o projeto online](https://eltonprado.github.io/BoraCodar_Desafio10_ClimaTempo/)
 
 <br>
 
@@ -25,7 +23,6 @@ Quer conferir como ficou a página?
 
 O intuito do projeto foi colocar em prática os conhecimentos acerca de:
 
-### HTML
 ### CSS
 
   - animations / @keyframes
